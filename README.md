@@ -1,4 +1,4 @@
-# 📌 Credit Card Fraud Detection — Project Task List
+#  Credit Card Fraud Detection — Project Task List
 
 ## 1) Project Progress Report
 - [X] Write project progress report (Alyssa Tu)
