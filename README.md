@@ -7,20 +7,20 @@
 
 ## 2) Train Machine Learning Models
 - [X] Train Logistic Regression Model (Alyssa Tu)
-- [ ] ANN (Artificial Neural Network); Backpropagation + Gradient Descent Optimization + Grid Search Hyperparameter Tuning (Brian)
-- [ ] Train Random Forest model (Humayra Rashid)
-- [ ] Train XGBoost model (John Lopez)
-- [ ] ALL MODELS SHOULD HANDLE `Class` IMBALANCE
-- [ ] Generate predictions for each model
+- [X] Train Random Forest model (Humayra Rashid)
+- [X] Train XGBoost model (John Lopez)
+- [ ] ANN (Artificial Neural Network); Backpropagation + Gradient Descent Optimization + Grid Search Hyperparameter Tuning (Brian Andrade)
+- [X] ALL MODELS HANDLE `Class` IMBALANCE
+- [ ] Generate predictions for each model (pending Brian Andrade)
 
 ---
 
 ## 3) Compare Model Performance
-- [ ] Evaluate models using precision
-- [ ] Evaluate models using recall
-- [ ] Compute AUPRC for each model
-- [ ] Compare results across all models
-- [ ] Select best-performing model
+- [ ] Evaluate models using precision (Slok Patel)
+- [ ] Evaluate models using recall (Slok Patel)
+- [ ] Compute AUPRC for each model (Slok Patel)
+- [ ] Compare results across all models (Slok Patel)
+- [ ] Select best-performing model (Slok Patel)
 
 ---
 
