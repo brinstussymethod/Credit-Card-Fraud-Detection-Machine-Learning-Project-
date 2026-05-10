@@ -9,7 +9,7 @@
 - [X] Train Logistic Regression Model (Alyssa Tu)
 - [X] Train Random Forest model (Humayra Rashid)
 - [X] Train XGBoost model (John Lopez)
-- [ ] ANN (Artificial Neural Network); Backpropagation + Gradient Descent Optimization + Grid Search Hyperparameter Tuning (Brian Andrade)
+- [X] ANN (Artificial Neural Network); Backpropagation + Gradient Descent Optimization + Grid Search Hyperparameter Tuning (Brian Andrade)
 - [X] ALL MODELS HANDLE `Class` IMBALANCE
 - [ ] Generate predictions for each model (pending Brian Andrade)
 
