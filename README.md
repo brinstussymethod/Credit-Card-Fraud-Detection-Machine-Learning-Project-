@@ -6,7 +6,7 @@
 ---
 
 ## 2) Train Machine Learning Models
-- [X] Train RBF Kernel SVM + Grid Search (Alyssa Tu)
+- [X] Train Logistic Regression Model (Alyssa Tu)
 - [ ] ANN (Artificial Neural Network); Backpropagation + Gradient Descent Optimization + Grid Search Hyperparameter Tuning (Brian)
 - [ ] Train Random Forest model (Humayra Rashid)
 - [ ] Train XGBoost model (John Lopez)
